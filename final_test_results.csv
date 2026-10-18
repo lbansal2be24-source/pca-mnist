@@ -1,0 +1,4 @@
+Model,Features,Test accuracy (%),Test macro-F1 (%),PCA + train time (s),Predict time (s)
+LR (784 features),784,92.58,92.472,13.068,0.008
+LR + PCA (100),100,92.18,92.062,1.204,0.001
+RF (784 features),784,96.92,96.892,4.038,0.04
